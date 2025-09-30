@@ -12,7 +12,7 @@ The goal is to answer:
 - What are the average salaries by job title?  
 - Which programming languages are most preferred?
 
-## D → Data
+## Data
 - Source: Survey data from 630 participants in multiple countries.  
 - Data includes: age, gender, country, job title, salary, happiness scores, and preferred programming language.  
 - Format: Excel dataset imported into Power BI.  
